@@ -1,0 +1,15 @@
+{
+  "appTitle": "Démo de localisation",
+  "helloWorld": "Bonjour le monde !",
+  "counterMessage": "Vous avez cliqué {count} fois",
+  "@counterMessage": {
+    "description": "Shown under the counter button",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "increment": "Incrémenter",
+  "currentLanguage": "Langue actuelle : Français"
+}

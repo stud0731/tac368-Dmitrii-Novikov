@@ -1,0 +1,15 @@
+{
+  "appTitle": "عرض الترجمة",
+  "helloWorld": "مرحباً بالعالم!",
+  "counterMessage": "لقد نقرت {count} مرات",
+  "@counterMessage": {
+    "description": "Shown under the counter button",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "increment": "زيادة",
+  "currentLanguage": "اللغة الحالية: العربية"
+}
