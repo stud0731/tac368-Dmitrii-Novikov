@@ -1,0 +1,15 @@
+{
+  "appTitle": "本地化演示",
+  "helloWorld": "你好，世界！",
+  "counterMessage": "你点击了 {count} 次",
+  "@counterMessage": {
+    "description": "Shown under the counter button",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "increment": "增加",
+  "currentLanguage": "当前语言：中文"
+}

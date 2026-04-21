@@ -1,0 +1,15 @@
+{
+  "appTitle": "Демо локализации",
+  "helloWorld": "Привет, мир!",
+  "counterMessage": "Вы нажали {count} раз",
+  "@counterMessage": {
+    "description": "Shown under the counter button",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "increment": "Увеличить",
+  "currentLanguage": "Текущий язык: русский"
+}
