@@ -1,0 +1,14 @@
+{
+    "appTitle": "2048 Modificado",
+    "score": "Puntuación",
+    "highScores": "Mejores puntuaciones",
+    "reset": "Reiniciar",
+    "quit": "Salir",
+    "resume": "Continuar",
+    "gameOver": "Fin del juego",
+    "english": "Inglés",
+    "spanish": "Español",
+    "quitMessage": "¿Quieres guardar esta partida o reiniciarla?",
+    "save": "Guardar",
+    "gameSaved": "Partida guardada"
+}

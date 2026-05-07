@@ -1,0 +1,14 @@
+{
+    "appTitle": "Modified 2048",
+    "score": "Score",
+    "highScores": "High Scores",
+    "reset": "Reset",
+    "quit": "Quit",
+    "resume": "Resume",
+    "gameOver": "Game Over",
+    "english": "English",
+    "spanish": "Spanish",
+    "quitMessage": "Do you want to save this game or reset it?",
+    "save": "Save",
+    "gameSaved": "Game saved"
+}
